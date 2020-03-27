@@ -1,4 +1,3 @@
-﻿// Liutauras Bitinas; liutexus@gmail.com; Written in C#
 using System;
 using System.Linq;
 
